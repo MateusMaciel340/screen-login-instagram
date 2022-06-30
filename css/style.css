@@ -11,6 +11,7 @@ body{
     display: flex; 
     max-width: 1200px; 
     margin: 0 auto;
+    justify-content: space-evenly;
 }
 
 .login-screen .login-screen-right{
@@ -109,4 +110,8 @@ body{
 .register-apps img{
     width: 150px;
     margin-top: 20px;
+}
+
+.flex-container .screen-mobile img{
+    margin: 40px 0px 0px 0px;
 }
