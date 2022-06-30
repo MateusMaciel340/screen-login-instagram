@@ -100,3 +100,13 @@ body{
     color: #0095f6;
     font-weight: bold;
 }
+
+.login-screen-left .register-apps{
+    font-size: 15px; text-align: center;
+    margin-top: 10px;
+}
+
+.register-apps img{
+    width: 150px;
+    margin-top: 20px;
+}
