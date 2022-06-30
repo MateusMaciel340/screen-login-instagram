@@ -86,3 +86,27 @@ body{
     font-size: 15px;
     color: #395593;
 }
+
+.login-screen-left .register-account{
+    background-color: #FFFFFF;
+    border: 1px solid #DBDBDB;
+    text-align: center;
+    padding: 18px;
+    font-size: 15px;
+}
+
+.register-account a{
+    text-decoration: none;
+    color: #0095f6;
+    font-weight: bold;
+}
+
+.login-screen-left .register-apps{
+    font-size: 15px; text-align: center;
+    margin-top: 10px;
+}
+
+.register-apps img{
+    width: 150px;
+    margin-top: 20px;
+}
