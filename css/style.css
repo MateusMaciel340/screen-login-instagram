@@ -35,3 +35,15 @@ body{
     font-size: 12px;
     border-radius: 3px;
 }
+
+.login-screen .login-screen-right button{
+    width: 100%;
+    margin-top: 15px;
+    border: none;
+    padding: 7px 0px 7px 0px;
+    border-radius: 4px;
+    color: #fff;
+    background-color: #0095F6;
+    font-weight: bold;
+    font-size: 14px;
+}
