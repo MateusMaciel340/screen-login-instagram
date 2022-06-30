@@ -63,3 +63,26 @@ body{
     background-color: #ccc;
     font-weight: bold;
 }
+
+.acess-types{
+    color: #395593;
+    font-weight: bold;
+    font-size: 15px;
+    margin: 15px 0px 15px 0px;
+}
+
+.acess-types i{
+    background-color: #395593;
+    color: #fff;
+    padding: 4px 4px 4px 8px;
+    border-radius: 2px;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+.acess-types a{
+    text-decoration: none;
+    font-weight: 100;
+    font-size: 15px;
+    color: #395593;
+}
