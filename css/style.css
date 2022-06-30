@@ -115,3 +115,22 @@ body{
 .flex-container .screen-mobile img{
     margin: 40px 0px 0px 0px;
 }
+
+@media(max-width: 815px){
+    .flex-container .screen-mobile img{
+        width: 300px
+    }
+}
+
+@media(max-width: 721px){
+    .flex-container .screen-mobile img{
+        width: 250px
+    }
+}
+
+@media(max-width: 700px){
+    .flex-container .screen-mobile img{
+        width: 250px;
+        display: none;
+    }
+}
